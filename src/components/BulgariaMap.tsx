@@ -37,7 +37,7 @@ export default function BulgariaMap() {
             if (!selectedRegion) return c.properties.isAdminCapital;
 
             const point = {
-                type: "Point",
+                type: "Point" as const,
                 coordinates: [c.geometry.coordinates[0], c.geometry.coordinates[1]],
             };
 

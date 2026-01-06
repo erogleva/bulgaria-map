@@ -1,0 +1,4101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.33,
+          42.7
+        ]
+      },
+      "properties": {
+        "city": "София",
+        "population": "1547779",
+        "region": "Sofia-Grad",
+        "isAdminCapital": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.9167,
+          43.2167
+        ]
+      },
+      "properties": {
+        "city": "Варна",
+        "population": "348594",
+        "region": "Varna",
+        "isAdminCapital": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.75,
+          42.15
+        ]
+      },
+      "properties": {
+        "city": "Пловдив",
+        "population": "346893",
+        "region": "Plovdiv",
+        "isAdminCapital": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.4702,
+          42.503
+        ]
+      },
+      "properties": {
+        "city": "Бургас",
+        "population": "210813",
+        "region": "Burgas",
+        "isAdminCapital": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.9539,
+          43.8231
+        ]
+      },
+      "properties": {
+        "city": "Русе",
+        "population": "143325",
+        "region": "Ruse",
+        "isAdminCapital": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.6344,
+          42.4256
+        ]
+      },
+      "properties": {
+        "city": "Стара Загора",
+        "population": "142746",
+        "region": "Stara Zagora",
+        "isAdminCapital": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.6203,
+          43.4078
+        ]
+      },
+      "properties": {
+        "city": "Плевен",
+        "population": "119596",
+        "region": "Pleven",
+        "isAdminCapital": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.3333,
+          42.6833
+        ]
+      },
+      "properties": {
+        "city": "Сливен",
+        "population": "115241",
+        "region": "Sliven",
+        "isAdminCapital": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.0333,
+          42.6
+        ]
+      },
+      "properties": {
+        "city": "Перник",
+        "population": "97181",
+        "region": "Pernik",
+        "isAdminCapital": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.3333,
+          42.2
+        ]
+      },
+      "properties": {
+        "city": "Пазарджик",
+        "population": "90309",
+        "region": "Pazardzhik",
+        "isAdminCapital": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.8333,
+          43.5667
+        ]
+      },
+      "properties": {
+        "city": "Добрич",
+        "population": "89701",
+        "region": "Dobrich",
+        "isAdminCapital": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.9333,
+          43.2833
+        ]
+      },
+      "properties": {
+        "city": "Шумен",
+        "population": "85410",
+        "region": "Shumen",
+        "isAdminCapital": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.5667,
+          41.9333
+        ]
+      },
+      "properties": {
+        "city": "Хасково",
+        "population": "83682",
+        "region": "Haskovo",
+        "isAdminCapital": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.6167,
+          43.0778
+        ]
+      },
+      "properties": {
+        "city": "Велико Търново",
+        "population": "76834",
+        "region": "Veliko Tarnovo",
+        "isAdminCapital": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.0897,
+          42.0119
+        ]
+      },
+      "properties": {
+        "city": "Благоевград",
+        "population": "74066",
+        "region": "Blagoevgrad",
+        "isAdminCapital": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5,
+          42.4833
+        ]
+      },
+      "properties": {
+        "city": "Ямбол",
+        "population": "70588",
+        "region": "Yambol",
+        "isAdminCapital": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.4,
+          42.6167
+        ]
+      },
+      "properties": {
+        "city": "Казанлък",
+        "population": "66169",
+        "region": "Stara Zagora",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8667,
+          42.0167
+        ]
+      },
+      "properties": {
+        "city": "Асеновград",
+        "population": "65962",
+        "region": "Plovdiv",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.6833,
+          42.2833
+        ]
+      },
+      "properties": {
+        "city": "Кюстендил",
+        "population": "60681",
+        "region": "Kyustendil",
+        "isAdminCapital": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.55,
+          43.2
+        ]
+      },
+      "properties": {
+        "city": "Враца",
+        "population": "60361",
+        "region": "Vratsa",
+        "isAdminCapital": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.3333,
+          42.8667
+        ]
+      },
+      "properties": {
+        "city": "Габрово",
+        "population": "54608",
+        "region": "Gabrovo",
+        "isAdminCapital": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5833,
+          43.25
+        ]
+      },
+      "properties": {
+        "city": "Търговище",
+        "population": "53041",
+        "region": "Targovishte",
+        "isAdminCapital": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.3667,
+          41.65
+        ]
+      },
+      "properties": {
+        "city": "Кърджали",
+        "population": "51841",
+        "region": "Kardzhali",
+        "isAdminCapital": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.8667,
+          44
+        ]
+      },
+      "properties": {
+        "city": "Видин",
+        "population": "46269",
+        "region": "Vidin",
+        "isAdminCapital": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5167,
+          43.5333
+        ]
+      },
+      "properties": {
+        "city": "Разград",
+        "population": "44894",
+        "region": "Razgrad",
+        "isAdminCapital": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.35,
+          43.6167
+        ]
+      },
+      "properties": {
+        "city": "Свищов",
+        "population": "44359",
+        "region": "Veliko Tarnovo",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.2606,
+          44.1172
+        ]
+      },
+      "properties": {
+        "city": "Силистра",
+        "population": "43265",
+        "region": "Silistra",
+        "isAdminCapital": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.1164,
+          42.2645
+        ]
+      },
+      "properties": {
+        "city": "Дупница",
+        "population": "42470",
+        "region": "Kyustendil",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2217,
+          43.4075
+        ]
+      },
+      "properties": {
+        "city": "Монтана",
+        "population": "40044",
+        "region": "Montana",
+        "isAdminCapital": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7172,
+          43.1347
+        ]
+      },
+      "properties": {
+        "city": "Ловеч",
+        "population": "37448",
+        "region": "Lovech",
+        "isAdminCapital": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.6,
+          42.05
+        ]
+      },
+      "properties": {
+        "city": "Dimitrovgrad",
+        "population": "34990",
+        "region": "Haskovo",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7,
+          41.5833
+        ]
+      },
+      "properties": {
+        "city": "Смолян",
+        "population": "34465",
+        "region": "Smolyan",
+        "isAdminCapital": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.7,
+          43.1333
+        ]
+      },
+      "properties": {
+        "city": "Горна Оряховица",
+        "population": "30169",
+        "region": "Veliko Tarnovo",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2069,
+          41.3953
+        ]
+      },
+      "properties": {
+        "city": "Петрич",
+        "population": "29630",
+        "region": "Blagoevgrad",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7333,
+          41.5667
+        ]
+      },
+      "properties": {
+        "city": "Гоце Делчев",
+        "population": "29585",
+        "region": "Blagoevgrad",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.25,
+          42.7
+        ]
+      },
+      "properties": {
+        "city": "Айтос",
+        "population": "27326",
+        "region": "Burgas",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.9667,
+          42.3
+        ]
+      },
+      "properties": {
+        "city": "Rakovski",
+        "population": "25326",
+        "region": "Plovdiv",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.417,
+          43.1
+        ]
+      },
+      "properties": {
+        "city": "Омуртаг",
+        "population": "24876",
+        "region": "Targovishte",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24,
+          42.0167
+        ]
+      },
+      "properties": {
+        "city": "Velingrad",
+        "population": "24154",
+        "region": "Pazardzhik",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8333,
+          43.7167
+        ]
+      },
+      "properties": {
+        "city": "Isperih",
+        "population": "22556",
+        "region": "Razgrad",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2375,
+          43.8256
+        ]
+      },
+      "properties": {
+        "city": "Lom",
+        "population": "21892",
+        "region": "Montana",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8072,
+          42.6436
+        ]
+      },
+      "properties": {
+        "city": "Карлово",
+        "population": "21865",
+        "region": "Plovdiv",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1833,
+          42.5
+        ]
+      },
+      "properties": {
+        "city": "Panagyurishte",
+        "population": "21430",
+        "region": "Pazardzhik",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7919,
+          42.9083
+        ]
+      },
+      "properties": {
+        "city": "Ботевград",
+        "population": "20602",
+        "region": "Sofia",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.3,
+          42.0333
+        ]
+      },
+      "properties": {
+        "city": "Peshtera",
+        "population": "19877",
+        "region": "Pazardzhik",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.817,
+          43.1667
+        ]
+      },
+      "properties": {
+        "city": "Veliki Preslav",
+        "population": "14960",
+        "region": "Shumen",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.6167,
+          42.5683
+        ]
+      },
+      "properties": {
+        "city": "Pomorie",
+        "population": "14409",
+        "region": "Burgas",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.7333,
+          42.65
+        ]
+      },
+      "properties": {
+        "city": "Nesebar",
+        "population": "14146",
+        "region": "Burgas",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.7167,
+          43.1
+        ]
+      },
+      "properties": {
+        "city": "Лясковец",
+        "population": "13735",
+        "region": "Veliko Tarnovo",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.2,
+          43.35
+        ]
+      },
+      "properties": {
+        "city": "Novi Pazar",
+        "population": "12710",
+        "region": "Shumen",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.4333,
+          43.1833
+        ]
+      },
+      "properties": {
+        "city": "Provadia",
+        "population": "12419",
+        "region": "Varna",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.4667,
+          41.8833
+        ]
+      },
+      "properties": {
+        "city": "Razlog",
+        "population": "12340",
+        "region": "Blagoevgrad",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.1,
+          41.3833
+        ]
+      },
+      "properties": {
+        "city": "Zlatograd",
+        "population": "12087",
+        "region": "Smolyan",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7333,
+          43.7833
+        ]
+      },
+      "properties": {
+        "city": "Kozloduy",
+        "population": "11940",
+        "region": "Vratsa",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2167,
+          42.8167
+        ]
+      },
+      "properties": {
+        "city": "Костинброд",
+        "population": "11411",
+        "region": "Sofia",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.1333,
+          42.7
+        ]
+      },
+      "properties": {
+        "city": "Bankya",
+        "population": "11358",
+        "region": "Sofia-Grad",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.5333,
+          42.1333
+        ]
+      },
+      "properties": {
+        "city": "Stamboliyski",
+        "population": "11282",
+        "region": "Plovdiv",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24,
+          42.8333
+        ]
+      },
+      "properties": {
+        "city": "Etropole",
+        "population": "10316",
+        "region": "Sofia",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.4167,
+          41.5333
+        ]
+      },
+      "properties": {
+        "city": "Momchilgrad",
+        "population": "9235",
+        "region": "Kardzhali",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.5667,
+          43.2167
+        ]
+      },
+      "properties": {
+        "city": "Devnya",
+        "population": "8905",
+        "region": "Varna",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.0833,
+          41.9833
+        ]
+      },
+      "properties": {
+        "city": "Rakitovo",
+        "population": "8638",
+        "region": "Pazardzhik",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.75,
+          42.65
+        ]
+      },
+      "properties": {
+        "city": "Sopot",
+        "population": "8595",
+        "region": "Plovdiv",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1,
+          42.2167
+        ]
+      },
+      "properties": {
+        "city": "Септември",
+        "population": "8167",
+        "region": "Pazardzhik",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.4667,
+          42.05
+        ]
+      },
+      "properties": {
+        "city": "Krichim",
+        "population": "8129",
+        "region": "Plovdiv",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.7333,
+          43.45
+        ]
+      },
+      "properties": {
+        "city": "Byala",
+        "population": "8087",
+        "region": "Ruse",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.8167,
+          43.25
+        ]
+      },
+      "properties": {
+        "city": "Aksakovo",
+        "population": "8004",
+        "region": "Varna",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.7,
+          43.1833
+        ]
+      },
+      "properties": {
+        "city": "Beloslav",
+        "population": "7620",
+        "region": "Varna",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6,
+          42.6667
+        ]
+      },
+      "properties": {
+        "city": "Елин Пелин",
+        "population": "7097",
+        "region": "Sofia",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.0333,
+          42.85
+        ]
+      },
+      "properties": {
+        "city": "Slivnitsa",
+        "population": "7063",
+        "region": "Sofia",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.95,
+          41.5
+        ]
+      },
+      "properties": {
+        "city": "Madan",
+        "population": "6597",
+        "region": "Smolyan",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.1667,
+          44.1
+        ]
+      },
+      "properties": {
+        "city": "Aydemir",
+        "population": "6177",
+        "region": "Silistra",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.4,
+          41.7333
+        ]
+      },
+      "properties": {
+        "city": "Devin",
+        "population": "6079",
+        "region": "Smolyan",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.4831,
+          42.6
+        ]
+      },
+      "properties": {
+        "city": "Lozen",
+        "population": "6014",
+        "region": "Sofia-Grad",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.283,
+          43.183
+        ]
+      },
+      "properties": {
+        "city": "Varshets",
+        "population": "5742",
+        "region": "Montana",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.55,
+          42.2667
+        ]
+      },
+      "properties": {
+        "city": "Saedinenie",
+        "population": "5621",
+        "region": "Plovdiv",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.36,
+          42.5861
+        ]
+      },
+      "properties": {
+        "city": "Bistritsa",
+        "population": "5237",
+        "region": "Sofia-Grad",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.1997,
+          42.7625
+        ]
+      },
+      "properties": {
+        "city": "Божурище",
+        "population": "5225",
+        "region": "Sofia",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.6,
+          43.3333
+        ]
+      },
+      "properties": {
+        "city": "Suvorovo",
+        "population": "5049",
+        "region": "Varna",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.55,
+          42.05
+        ]
+      },
+      "properties": {
+        "city": "Perushtitsa",
+        "population": "5018",
+        "region": "Plovdiv",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7667,
+          42.2833
+        ]
+      },
+      "properties": {
+        "city": "Dolna Banya",
+        "population": "4687",
+        "region": "Sofia",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.2667,
+          43.7
+        ]
+      },
+      "properties": {
+        "city": "Vetovo",
+        "population": "4540",
+        "region": "Ruse",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.4667,
+          42.6667
+        ]
+      },
+      "properties": {
+        "city": "Kazichene",
+        "population": "4503",
+        "region": "Sofia-Grad",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.7667,
+          43.25
+        ]
+      },
+      "properties": {
+        "city": "Ignatievo",
+        "population": "4358",
+        "region": "Varna",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.0167,
+          42
+        ]
+      },
+      "properties": {
+        "city": "Kostandovo",
+        "population": "4336",
+        "region": "Pazardzhik",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.6133,
+          43.4453
+        ]
+      },
+      "properties": {
+        "city": "Bukovlak",
+        "population": "4335",
+        "region": "Pleven",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1444,
+          43.3572
+        ]
+      },
+      "properties": {
+        "city": "Koynare",
+        "population": "4231",
+        "region": "Pleven",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8667,
+          43.4667
+        ]
+      },
+      "properties": {
+        "city": "Slavyanovo",
+        "population": "4105",
+        "region": "Pleven",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7281,
+          42.2319
+        ]
+      },
+      "properties": {
+        "city": "Trud",
+        "population": "4067",
+        "region": "Plovdiv",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.2505,
+          44.0861
+        ]
+      },
+      "properties": {
+        "city": "Kalipetrovo",
+        "population": "4043",
+        "region": "Silistra",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2667,
+          42.2833
+        ]
+      },
+      "properties": {
+        "city": "Sapareva Banya",
+        "population": "3950",
+        "region": "Kyustendil",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.433,
+          42.2
+        ]
+      },
+      "properties": {
+        "city": "Malo Konare",
+        "population": "3856",
+        "region": "Pazardzhik",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6731,
+          42.995
+        ]
+      },
+      "properties": {
+        "city": "Varbitsa",
+        "population": "3837",
+        "region": "Shumen",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.0833,
+          43.9167
+        ]
+      },
+      "properties": {
+        "city": "Marten",
+        "population": "3650",
+        "region": "Ruse",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.6208,
+          43.0436
+        ]
+      },
+      "properties": {
+        "city": "Debelets",
+        "population": "3637",
+        "region": "Veliko Tarnovo",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2,
+          42.6333
+        ]
+      },
+      "properties": {
+        "city": "Vladaya",
+        "population": "3621",
+        "region": "Sofia-Grad",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.6631,
+          42.0744
+        ]
+      },
+      "properties": {
+        "city": "Parvenets",
+        "population": "3584",
+        "region": "Plovdiv",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.0333,
+          41.7333
+        ]
+      },
+      "properties": {
+        "city": "Sarnitsa",
+        "population": "3511",
+        "region": "Pazardzhik",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.7667,
+          42.7167
+        ]
+      },
+      "properties": {
+        "city": "Sveti Vlas",
+        "population": "3508",
+        "region": "Burgas",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.85,
+          41.4833
+        ]
+      },
+      "properties": {
+        "city": "Rudozem",
+        "population": "3466",
+        "region": "Smolyan",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.4275,
+          42.6511
+        ]
+      },
+      "properties": {
+        "city": "Topolchane",
+        "population": "3354",
+        "region": "Sliven",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.5833,
+          42.0667
+        ]
+      },
+      "properties": {
+        "city": "Brestovitsa",
+        "population": "3318",
+        "region": "Plovdiv",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.289,
+          42.1452
+        ]
+      },
+      "properties": {
+        "city": "Aleko Konstantinovo",
+        "population": "3265",
+        "region": "Pazardzhik",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7,
+          43.6333
+        ]
+      },
+      "properties": {
+        "city": "Gulyantsi",
+        "population": "3179",
+        "region": "Pleven",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.8,
+          42.6333
+        ]
+      },
+      "properties": {
+        "city": "Nikolaevo",
+        "population": "3147",
+        "region": "Stara Zagora",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8646,
+          42.1818
+        ]
+      },
+      "properties": {
+        "city": "Rogosh",
+        "population": "3126",
+        "region": "Plovdiv",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8333,
+          42.55
+        ]
+      },
+      "properties": {
+        "city": "Banya",
+        "population": "3083",
+        "region": "Plovdiv",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.3831,
+          42.6669
+        ]
+      },
+      "properties": {
+        "city": "Kran",
+        "population": "3074",
+        "region": "Stara Zagora",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.8214,
+          43.2183
+        ]
+      },
+      "properties": {
+        "city": "Topoli",
+        "population": "3046",
+        "region": "Varna",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.4397,
+          42.5708
+        ]
+      },
+      "properties": {
+        "city": "Pancharevo",
+        "population": "3042",
+        "region": "Sofia-Grad",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.908,
+          43.248
+        ]
+      },
+      "properties": {
+        "city": "Kamenar",
+        "population": "3040",
+        "region": "Varna",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.3333,
+          42.2167
+        ]
+      },
+      "properties": {
+        "city": "Ivaylo",
+        "population": "3014",
+        "region": "Pazardzhik",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.7961,
+          42.6572
+        ]
+      },
+      "properties": {
+        "city": "Gurkovo",
+        "population": "3011",
+        "region": "Stara Zagora",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.4042,
+          42.6922
+        ]
+      },
+      "properties": {
+        "city": "Sotirya",
+        "population": "2942",
+        "region": "Sliven",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.2833,
+          42.8
+        ]
+      },
+      "properties": {
+        "city": "Ruen",
+        "population": "2911",
+        "region": "Burgas",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.5667,
+          42.65
+        ]
+      },
+      "properties": {
+        "city": "Kableshkovo",
+        "population": "2894",
+        "region": "Burgas",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.05,
+          42.2667
+        ]
+      },
+      "properties": {
+        "city": "Vetren",
+        "population": "2888",
+        "region": "Pazardzhik",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.7392,
+          43.1564
+        ]
+      },
+      "properties": {
+        "city": "Dolna Oryahovitsa",
+        "population": "2696",
+        "region": "Veliko Tarnovo",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2429,
+          42.7727
+        ]
+      },
+      "properties": {
+        "city": "Voluyak",
+        "population": "2659",
+        "region": "Sofia-Grad",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.4167,
+          42.6167
+        ]
+      },
+      "properties": {
+        "city": "German",
+        "population": "2649",
+        "region": "Sofia-Grad",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5667,
+          42.7667
+        ]
+      },
+      "properties": {
+        "city": "Buhovo",
+        "population": "2644",
+        "region": "Sofia-Grad",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.9731,
+          42.6122
+        ]
+      },
+      "properties": {
+        "city": "Kalofer",
+        "population": "2642",
+        "region": "Plovdiv",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.817,
+          42.233
+        ]
+      },
+      "properties": {
+        "city": "Kalekovets",
+        "population": "2641",
+        "region": "Plovdiv",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.0929,
+          43.8573
+        ]
+      },
+      "properties": {
+        "city": "Nikolovo",
+        "population": "2615",
+        "region": "Ruse",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.6833,
+          42.65
+        ]
+      },
+      "properties": {
+        "city": "Ravda",
+        "population": "2615",
+        "region": "Burgas",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.812,
+          43.6916
+        ]
+      },
+      "properties": {
+        "city": "Glozhene",
+        "population": "2612",
+        "region": "Vratsa",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.483,
+          42.105
+        ]
+      },
+      "properties": {
+        "city": "Novo Selo",
+        "population": "2578",
+        "region": "Plovdiv",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.4998,
+          42.093
+        ]
+      },
+      "properties": {
+        "city": "Kurtovo Konare",
+        "population": "2543",
+        "region": "Plovdiv",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8333,
+          42.1833
+        ]
+      },
+      "properties": {
+        "city": "Skutare",
+        "population": "2524",
+        "region": "Plovdiv",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.9347,
+          41.5378
+        ]
+      },
+      "properties": {
+        "city": "Ablanitsa",
+        "population": "2511",
+        "region": "Blagoevgrad",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.933,
+          42.133
+        ]
+      },
+      "properties": {
+        "city": "Sadovo",
+        "population": "2494",
+        "region": "Plovdiv",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.4256,
+          42.7578
+        ]
+      },
+      "properties": {
+        "city": "Chepintsi",
+        "population": "2437",
+        "region": "Sofia-Grad",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.6521,
+          43.153
+        ]
+      },
+      "properties": {
+        "city": "Parvomaytsi",
+        "population": "2419",
+        "region": "Veliko Tarnovo",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.7467,
+          43.2209
+        ]
+      },
+      "properties": {
+        "city": "Draganovo",
+        "population": "2405",
+        "region": "Veliko Tarnovo",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.4,
+          42.1333
+        ]
+      },
+      "properties": {
+        "city": "Ognyanovo",
+        "population": "2368",
+        "region": "Pazardzhik",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.9833,
+          41.5333
+        ]
+      },
+      "properties": {
+        "city": "Valkosel",
+        "population": "2350",
+        "region": "Blagoevgrad",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.4667,
+          43.6
+        ]
+      },
+      "properties": {
+        "city": "Rakovski",
+        "population": "2332",
+        "region": "Razgrad",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.6333,
+          42.9833
+        ]
+      },
+      "properties": {
+        "city": "Kilifarevo",
+        "population": "2323",
+        "region": "Veliko Tarnovo",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.3088,
+          42.1574
+        ]
+      },
+      "properties": {
+        "city": "Glavinitsa",
+        "population": "2243",
+        "region": "Pazardzhik",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3838,
+          42.7819
+        ]
+      },
+      "properties": {
+        "city": "Svetovrachane",
+        "population": "2205",
+        "region": "Sofia-Grad",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.65,
+          44.15
+        ]
+      },
+      "properties": {
+        "city": "Bregovo",
+        "population": "2180",
+        "region": "Vidin",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.6481,
+          42.6489
+        ]
+      },
+      "properties": {
+        "city": "Aheloy",
+        "population": "2162",
+        "region": "Burgas",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.3667,
+          42.55
+        ]
+      },
+      "properties": {
+        "city": "Krushare",
+        "population": "2140",
+        "region": "Sliven",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.208,
+          42.1472
+        ]
+      },
+      "properties": {
+        "city": "Gradina",
+        "population": "2106",
+        "region": "Plovdiv",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.0667,
+          41.4167
+        ]
+      },
+      "properties": {
+        "city": "Startsevo",
+        "population": "2094",
+        "region": "Smolyan",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.8833,
+          42.8167
+        ]
+      },
+      "properties": {
+        "city": "Obzor",
+        "population": "2094",
+        "region": "Burgas",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.95,
+          42.6
+        ]
+      },
+      "properties": {
+        "city": "Batanovtsi",
+        "population": "2084",
+        "region": "Pernik",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.6833,
+          42.2
+        ]
+      },
+      "properties": {
+        "city": "Tsaratsovo",
+        "population": "2038",
+        "region": "Plovdiv",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8,
+          42.2
+        ]
+      },
+      "properties": {
+        "city": "Voyvodinovo",
+        "population": "2000",
+        "region": "Plovdiv",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.8,
+          43.5
+        ]
+      },
+      "properties": {
+        "city": "Borovo",
+        "population": "1992",
+        "region": "Ruse",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.3,
+          42.6167
+        ]
+      },
+      "properties": {
+        "city": "Balgarovo",
+        "population": "1921",
+        "region": "Burgas",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.1333,
+          42.8333
+        ]
+      },
+      "properties": {
+        "city": "Petarch",
+        "population": "1914",
+        "region": "Sofia",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.4011,
+          42.272
+        ]
+      },
+      "properties": {
+        "city": "Chernogorovo",
+        "population": "1913",
+        "region": "Pazardzhik",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.415,
+          42.5786
+        ]
+      },
+      "properties": {
+        "city": "Kokalyane",
+        "population": "1854",
+        "region": "Sofia-Grad",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7705,
+          42.8821
+        ]
+      },
+      "properties": {
+        "city": "Oreshak",
+        "population": "1847",
+        "region": "Lovech",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.1391,
+          42.6043
+        ]
+      },
+      "properties": {
+        "city": "Dragichevo",
+        "population": "1837",
+        "region": "Sofia-Grad",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6074,
+          43.6881
+        ]
+      },
+      "properties": {
+        "city": "Ostrovo",
+        "population": "1809",
+        "region": "Razgrad",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.3325,
+          42.1892
+        ]
+      },
+      "properties": {
+        "city": "Mokrishte",
+        "population": "1802",
+        "region": "Pazardzhik",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.15,
+          42.2833
+        ]
+      },
+      "properties": {
+        "city": "Yahinovo",
+        "population": "1798",
+        "region": "Kyustendil",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.6235,
+          42.179
+        ]
+      },
+      "properties": {
+        "city": "Kostievo",
+        "population": "1789",
+        "region": "Plovdiv",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2,
+          42.3167
+        ]
+      },
+      "properties": {
+        "city": "Kraynitsi",
+        "population": "1777",
+        "region": "Kyustendil",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.95,
+          43.25
+        ]
+      },
+      "properties": {
+        "city": "Aleksandrovo",
+        "population": "1774",
+        "region": "Lovech",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.3667,
+          42.15
+        ]
+      },
+      "properties": {
+        "city": "Sinitovo",
+        "population": "1768",
+        "region": "Pazardzhik",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.7667,
+          43.2
+        ]
+      },
+      "properties": {
+        "city": "Ezerovo",
+        "population": "1760",
+        "region": "Varna",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.55,
+          43.2
+        ]
+      },
+      "properties": {
+        "city": "Resen",
+        "population": "1751",
+        "region": "Veliko Tarnovo",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.75,
+          42.2833
+        ]
+      },
+      "properties": {
+        "city": "Graf Ignatievo",
+        "population": "1728",
+        "region": "Plovdiv",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.1542,
+          42.6469
+        ]
+      },
+      "properties": {
+        "city": "Seliminovo",
+        "population": "1722",
+        "region": "Sliven",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.65,
+          41.9667
+        ]
+      },
+      "properties": {
+        "city": "Uzundzhovo",
+        "population": "1720",
+        "region": "Haskovo",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.4333,
+          42.6833
+        ]
+      },
+      "properties": {
+        "city": "Busmantsi",
+        "population": "1669",
+        "region": "Sofia-Grad",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.7833,
+          43.35
+        ]
+      },
+      "properties": {
+        "city": "Lyuben Karavelovo",
+        "population": "1650",
+        "region": "Varna",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6333,
+          42.6333
+        ]
+      },
+      "properties": {
+        "city": "Lesnovo",
+        "population": "1648",
+        "region": "Sofia",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.0738,
+          41.5461
+        ]
+      },
+      "properties": {
+        "city": "Byal Izvor",
+        "population": "1645",
+        "region": "Kardzhali",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.5,
+          42.1333
+        ]
+      },
+      "properties": {
+        "city": "Merichleri",
+        "population": "1642",
+        "region": "Haskovo",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.617,
+          43.183
+        ]
+      },
+      "properties": {
+        "city": "Polikrayshte",
+        "population": "1639",
+        "region": "Veliko Tarnovo",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.0494,
+          42.6553
+        ]
+      },
+      "properties": {
+        "city": "Divotino",
+        "population": "1636",
+        "region": "Pernik",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.25,
+          42.5169
+        ]
+      },
+      "properties": {
+        "city": "Ravnets",
+        "population": "1610",
+        "region": "Burgas",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.256,
+          42.504
+        ]
+      },
+      "properties": {
+        "city": "Kermen",
+        "population": "1593",
+        "region": "Sliven",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5331,
+          42.4477
+        ]
+      },
+      "properties": {
+        "city": "Kukorevo",
+        "population": "1587",
+        "region": "Yambol",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.1667,
+          42.25
+        ]
+      },
+      "properties": {
+        "city": "Samoranovo",
+        "population": "1580",
+        "region": "Kyustendil",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.8167,
+          43.45
+        ]
+      },
+      "properties": {
+        "city": "Stozher",
+        "population": "1540",
+        "region": "Dobrich",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3667,
+          42.5333
+        ]
+      },
+      "properties": {
+        "city": "Zheleznitsa",
+        "population": "1526",
+        "region": "Sofia-Grad",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.7072,
+          42.2667
+        ]
+      },
+      "properties": {
+        "city": "Slokoshtitsa",
+        "population": "1494",
+        "region": "Kyustendil",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.4167,
+          42.7667
+        ]
+      },
+      "properties": {
+        "city": "Negovan",
+        "population": "1489",
+        "region": "Sofia-Grad",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.6167,
+          42.75
+        ]
+      },
+      "properties": {
+        "city": "Orizare",
+        "population": "1487",
+        "region": "Burgas",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.4661,
+          42.1358
+        ]
+      },
+      "properties": {
+        "city": "Trivoditsi",
+        "population": "1478",
+        "region": "Plovdiv",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.6,
+          42.0167
+        ]
+      },
+      "properties": {
+        "city": "Krepost",
+        "population": "1475",
+        "region": "Haskovo",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.1667,
+          42.2333
+        ]
+      },
+      "properties": {
+        "city": "Bistritsa",
+        "population": "1453",
+        "region": "Kyustendil",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7,
+          43.4167
+        ]
+      },
+      "properties": {
+        "city": "Grivitsa",
+        "population": "1449",
+        "region": "Pleven",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3,
+          42.7833
+        ]
+      },
+      "properties": {
+        "city": "Mirovyane",
+        "population": "1414",
+        "region": "Sofia-Grad",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.3167,
+          42.25
+        ]
+      },
+      "properties": {
+        "city": "Saraya",
+        "population": "1405",
+        "region": "Pazardzhik",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.4667,
+          42.7667
+        ]
+      },
+      "properties": {
+        "city": "Stratsin",
+        "population": "1403",
+        "region": "Burgas",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.15,
+          42.8833
+        ]
+      },
+      "properties": {
+        "city": "Planinitsa",
+        "population": "1402",
+        "region": "Burgas",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.4669,
+          42.6831
+        ]
+      },
+      "properties": {
+        "city": "Krivina",
+        "population": "1368",
+        "region": "Sofia-Grad",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.1833,
+          42.7333
+        ]
+      },
+      "properties": {
+        "city": "Karageorgievo",
+        "population": "1344",
+        "region": "Burgas",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.45,
+          42.8
+        ]
+      },
+      "properties": {
+        "city": "Prosenik",
+        "population": "1335",
+        "region": "Burgas",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1333,
+          42.2833
+        ]
+      },
+      "properties": {
+        "city": "Vinogradets",
+        "population": "1315",
+        "region": "Pazardzhik",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.65,
+          42.6944
+        ]
+      },
+      "properties": {
+        "city": "Tankovo",
+        "population": "1312",
+        "region": "Burgas",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.3667,
+          42.7333
+        ]
+      },
+      "properties": {
+        "city": "Maglen",
+        "population": "1311",
+        "region": "Burgas",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.0167,
+          43.3333
+        ]
+      },
+      "properties": {
+        "city": "Tsarev Brod",
+        "population": "1301",
+        "region": "Shumen",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.2167,
+          42.95
+        ]
+      },
+      "properties": {
+        "city": "Tranak",
+        "population": "1298",
+        "region": "Burgas",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.4,
+          42.7833
+        ]
+      },
+      "properties": {
+        "city": "Razhitsa",
+        "population": "1287",
+        "region": "Burgas",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.3833,
+          42.7
+        ]
+      },
+      "properties": {
+        "city": "Shipka",
+        "population": "1275",
+        "region": "Stara Zagora",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.9508,
+          43.7742
+        ]
+      },
+      "properties": {
+        "city": "Basarbovo",
+        "population": "1267",
+        "region": "Ruse",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1669,
+          42.2669
+        ]
+      },
+      "properties": {
+        "city": "Karabunar",
+        "population": "1266",
+        "region": "Pazardzhik",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.0833,
+          42.2167
+        ]
+      },
+      "properties": {
+        "city": "Dzherman",
+        "population": "1262",
+        "region": "Kyustendil",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.7,
+          42.75
+        ]
+      },
+      "properties": {
+        "city": "Kosharitsa",
+        "population": "1260",
+        "region": "Burgas",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.779,
+          43.163
+        ]
+      },
+      "properties": {
+        "city": "Konstantinovo",
+        "population": "1255",
+        "region": "Varna",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.6499,
+          42.2082
+        ]
+      },
+      "properties": {
+        "city": "Benkovski",
+        "population": "1255",
+        "region": "Plovdiv",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.254,
+          42.795
+        ]
+      },
+      "properties": {
+        "city": "Yabalchevo",
+        "population": "1253",
+        "region": "Burgas",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.5286,
+          42.7706
+        ]
+      },
+      "properties": {
+        "city": "Galabets",
+        "population": "1252",
+        "region": "Burgas",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.0989,
+          43.8056
+        ]
+      },
+      "properties": {
+        "city": "Chervena Voda",
+        "population": "1250",
+        "region": "Ruse",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5448,
+          42.5329
+        ]
+      },
+      "properties": {
+        "city": "Veselinovo",
+        "population": "1227",
+        "region": "Yambol",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.5,
+          42.7333
+        ]
+      },
+      "properties": {
+        "city": "Bata",
+        "population": "1227",
+        "region": "Burgas",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.3713,
+          43.3356
+        ]
+      },
+      "properties": {
+        "city": "Golyamo Novo",
+        "population": "1227",
+        "region": "Razgrad",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5,
+          42.7
+        ]
+      },
+      "properties": {
+        "city": "Dolni Bogrov",
+        "population": "1213",
+        "region": "Sofia-Grad",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9833,
+          42.85
+        ]
+      },
+      "properties": {
+        "city": "Aldomirovtsi",
+        "population": "1208",
+        "region": "Sofia",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.5667,
+          43.65
+        ]
+      },
+      "properties": {
+        "city": "Karapelit",
+        "population": "1201",
+        "region": "Dobrich",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.1932,
+          43.8022
+        ]
+      },
+      "properties": {
+        "city": "Novo Selo",
+        "population": "1199",
+        "region": "Ruse",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.33,
+          43.351
+        ]
+      },
+      "properties": {
+        "city": "Belogradets",
+        "population": "1192",
+        "region": "Varna",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.1149,
+          43.9327
+        ]
+      },
+      "properties": {
+        "city": "Sandrovo",
+        "population": "1183",
+        "region": "Ruse",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.267,
+          43.533
+        ]
+      },
+      "properties": {
+        "city": "Gabrovnitsa",
+        "population": "1170",
+        "region": "Montana",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.45,
+          42.0667
+        ]
+      },
+      "properties": {
+        "city": "Yabalkovo",
+        "population": "1167",
+        "region": "Haskovo",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.85,
+          43.3
+        ]
+      },
+      "properties": {
+        "city": "Vaglen",
+        "population": "1155",
+        "region": "Varna",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5339,
+          43.1339
+        ]
+      },
+      "properties": {
+        "city": "Vardun",
+        "population": "1152",
+        "region": "Targovishte",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5333,
+          42.7167
+        ]
+      },
+      "properties": {
+        "city": "Gorni Bogrov",
+        "population": "1147",
+        "region": "Sofia-Grad",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.1833,
+          42.6
+        ]
+      },
+      "properties": {
+        "city": "Marchaevo",
+        "population": "1144",
+        "region": "Sofia-Grad",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.1667,
+          42.7833
+        ]
+      },
+      "properties": {
+        "city": "Zaychar",
+        "population": "1132",
+        "region": "Burgas",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6833,
+          43.3333
+        ]
+      },
+      "properties": {
+        "city": "Banitsa",
+        "population": "1131",
+        "region": "Vratsa",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.5458,
+          41.8569
+        ]
+      },
+      "properties": {
+        "city": "Voyvodovo",
+        "population": "1130",
+        "region": "Haskovo",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.6306,
+          41.8583
+        ]
+      },
+      "properties": {
+        "city": "Malevo",
+        "population": "1127",
+        "region": "Haskovo",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.3667,
+          41.6
+        ]
+      },
+      "properties": {
+        "city": "Opalchensko",
+        "population": "1126",
+        "region": "Kardzhali",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.1703,
+          43.7701
+        ]
+      },
+      "properties": {
+        "city": "Semerdzhievo",
+        "population": "1123",
+        "region": "Ruse",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.841,
+          43.156
+        ]
+      },
+      "properties": {
+        "city": "Zvezditsa",
+        "population": "1119",
+        "region": "Varna",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.4821,
+          42.4015
+        ]
+      },
+      "properties": {
+        "city": "Marinka",
+        "population": "1112",
+        "region": "Burgas",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.6,
+          42.7667
+        ]
+      },
+      "properties": {
+        "city": "Gyulyovtsa",
+        "population": "1086",
+        "region": "Burgas",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.4,
+          41.6
+        ]
+      },
+      "properties": {
+        "city": "Gluhar",
+        "population": "1084",
+        "region": "Kardzhali",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.0167,
+          42.15
+        ]
+      },
+      "properties": {
+        "city": "Boboshevo",
+        "population": "1081",
+        "region": "Kyustendil",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.4555,
+          42.1424
+        ]
+      },
+      "properties": {
+        "city": "Hadzhievo",
+        "population": "1071",
+        "region": "Pazardzhik",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.0667,
+          41.6
+        ]
+      },
+      "properties": {
+        "city": "Vaklinovo",
+        "population": "1067",
+        "region": "Blagoevgrad",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.7902,
+          43.1558
+        ]
+      },
+      "properties": {
+        "city": "Pisarevo",
+        "population": "1066",
+        "region": "Veliko Tarnovo",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.7666,
+          43.3062
+        ]
+      },
+      "properties": {
+        "city": "Varbitsa",
+        "population": "1064",
+        "region": "Veliko Tarnovo",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.1796,
+          42.568
+        ]
+      },
+      "properties": {
+        "city": "Kladnitsa",
+        "population": "1062",
+        "region": "Pernik",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.134,
+          41.424
+        ]
+      },
+      "properties": {
+        "city": "Dolen",
+        "population": "1058",
+        "region": "Smolyan",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.2,
+          42.1169
+        ]
+      },
+      "properties": {
+        "city": "Patalenitsa",
+        "population": "1047",
+        "region": "Pazardzhik",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.422,
+          42.021
+        ]
+      },
+      "properties": {
+        "city": "Gorski Izvor",
+        "population": "1046",
+        "region": "Haskovo",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.8569,
+          43.4944
+        ]
+      },
+      "properties": {
+        "city": "Stefanovo",
+        "population": "1044",
+        "region": "Dobrich",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7333,
+          41.6
+        ]
+      },
+      "properties": {
+        "city": "Borovo",
+        "population": "1043",
+        "region": "Blagoevgrad",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.3,
+          42.95
+        ]
+      },
+      "properties": {
+        "city": "Dobromir",
+        "population": "1042",
+        "region": "Burgas",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.278,
+          42.847
+        ]
+      },
+      "properties": {
+        "city": "Snyagovo",
+        "population": "1039",
+        "region": "Burgas",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.6333,
+          42.2167
+        ]
+      },
+      "properties": {
+        "city": "Voysil",
+        "population": "1036",
+        "region": "Plovdiv",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.1667,
+          42.3
+        ]
+      },
+      "properties": {
+        "city": "Cherven Breg",
+        "population": "1025",
+        "region": "Kyustendil",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.2,
+          42.8167
+        ]
+      },
+      "properties": {
+        "city": "Vresovo",
+        "population": "1022",
+        "region": "Burgas",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.6072,
+          42.1314
+        ]
+      },
+      "properties": {
+        "city": "Kadievo",
+        "population": "1021",
+        "region": "Plovdiv",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.1363,
+          42.1353
+        ]
+      },
+      "properties": {
+        "city": "Vinitsa",
+        "population": "1018",
+        "region": "Plovdiv",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.7667,
+          43.3
+        ]
+      },
+      "properties": {
+        "city": "Izvorsko",
+        "population": "1016",
+        "region": "Varna",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.646,
+          43.521
+        ]
+      },
+      "properties": {
+        "city": "Mortagonovo",
+        "population": "1013",
+        "region": "Razgrad",
+        "isAdminCapital": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2833,
+          42.8214
+        ]
+      },
+      "properties": {
+        "city": "Dobroslavtsi",
+        "population": "1004",
+        "region": "Sofia-Grad",
+        "isAdminCapital": false
+      }
+    }
+  ]
+}
